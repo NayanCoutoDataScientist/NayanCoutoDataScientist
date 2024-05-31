@@ -67,10 +67,15 @@ Emotional Intelligence: Control and focus on stressful situations and tight dead
 
 ### Certifications and Projects:
 
+**Mail Contact:**  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pereira.nayan@gmail.com)
 
-https://github.com/NayanCoutoDataScientist - **Portfolio of open-source projects and contributions.**
+**Summary and Certifications:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-couto-559485120/?locale=en_US)
 
-https://www.linkedin.com/in/nayan-couto-559485120/ - **Summary and Certifications**
+**Reach me at Telegram:**  
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/nayan_couto)
+
 
 I have lived in Blumenau-SC since 2021, where I continue to explore the dynamic field of Data Science,
 always looking for opportunities to make an impact through data analysis.
@@ -166,9 +171,5 @@ always looking for opportunities to make an impact through data analysis.
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-
-### How to reach me on Telegram:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/nayan_couto)
 
 
