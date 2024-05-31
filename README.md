@@ -14,6 +14,12 @@ in-depth knowledge in Economic Sciences, Politics and Law, providing a solid
 foundation for understanding the complexities of the global market.
 
 
+### IT Technician MEC SISTEC Authorization:
+
+
+CÓD. SISTEC: 98927/118997830CM - 27/05/2024
+
+
 ### Professional experience:
 
 
@@ -83,25 +89,29 @@ always looking for opportunities to make an impact through data analysis.
 ### Best frameworks and main libraries for Python3:
 
 
-| Pytorch | Selenium | Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
-|----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
+| Pytorch | Selenium | Numpy | Pandas | Sklearn | Matplotlib | OpenCV | Poetry | Seaborn | Plotly | TensorFlow | Streamlit |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plt" alt="plt" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" title="Poetry" alt="Poetry" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="55" height="55"/>|
+
+
+
+
 
 
 ### My tools for Data Manipulation:
 
 
-| Conda | Jupyter | Spark | MySQL | Oracle | SQLite |
-|----------|----------|----------|----------|--------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" alt="PLSql" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
+| Conda | Jupyter | Spark | MySQL | Oracle | SQLite | GCP BQ | Fabric |
+|----------|----------|----------|----------|--------|----------|--------|--------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" alt="PLSql" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Power Fabric" alt="Power Fabric" width="55" height="55"/>|
 
 
 ### Environments, Testing, Other:
 
 
-| Pycharm | Git | Docker | Pytest | Azure Databricks | Postman | Virtual Box| Azure Power Ambient |
-|---------|----------|----------|----------|------------------|----------|----------|---------------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="30" height="30"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase-original.svg" title="Databricks" alt="Databricks" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="80" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Power Ambient" alt="Power Ambient" width="55" height="55"/> |
+| Pycharm | Git | Docker | Pytest | Azure Databricks | Postman | Virtual Box | Power Ambient |
+|---------|----------|----------|----------|------------------|----------|----------|---------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="30" height="30"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="Databricks" alt="Databricks" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="80" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Power Ambient" alt="Power Ambient" width="55" height="55"/> |
 
 
 ### OS:
