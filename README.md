@@ -1,7 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NayanCoutoDataScientist&title=Stars,Followers,Commits,Repositories,MultipleLang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-# **Nayan Couto - Data Science and Strategic Analysis Specialist**
+# **Nayan Couto - Data Science and Business Intelligence Specialist**
 
 
 ### About Me:
