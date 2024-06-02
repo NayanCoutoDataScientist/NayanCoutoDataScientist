@@ -1,5 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NayanCoutoDataScientist&title=Stars,Followers,Commits,Repositories,MultipleLang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Data Science Econometrics](https://github.com/NayanCoutoDataScientist/NayanCoutoDataScientist/blob/main/assets/DataScienceEconometrics.png)
 
 # **Nayan Couto - Data Science and Business Intelligence Specialist**
 
