@@ -9,7 +9,7 @@
 
 
 At 31 years old and with an unwavering passion for data and analysis, I am an IT
-Technician, budding Data Scientist, currently improving my skills in Statistics and
+Technician, developing myself as a Data Scientist, currently improving my skills in Statistics and
 Machine Learning at Anhanguera University. My academic journey also includes
 in-depth knowledge in Economic Sciences, Politics and Law, providing a solid
 foundation for understanding the complexities of the global market.
@@ -18,6 +18,8 @@ foundation for understanding the complexities of the global market.
 ### (Associate's Degree) IT Technician MEC SISTEC Certificate:
 
 CÓD. SISTEC: 98927/118997830CM - 27/05/2024
+
+[<img src="https://sistec.mec.gov.br/publico/img/logo_sistec_v2.png" title="Sistec"  alt="Sistec" width="200" height="25"/>](https://sistec.mec.gov.br/validadenacional)
 
 
 ### Professional experience:
