@@ -89,9 +89,9 @@ always looking for opportunities to make an impact through data analysis.
 
 
 ### Languages:
-| Python3 | C | R | DAX/M |
-|----------|----------|---|-------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/> | <img src="https://smartsoft.kz/images/product/m1msm9qf.jpg" title="Power BI" alt="Power BI" width="55" height="55"/> |
+| Python3 | C | R | DAX/M | PL/SQL |
+|----------|----------|---|-------|--------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/> | <img src="https://smartsoft.kz/images/product/m1msm9qf.jpg" title="Power BI" alt="Power BI" width="55" height="55"/> | <img src="https://assets.codegrip.tech/wp-content/uploads/2021/09/28184216/Pl-Sql_Logo.png" title="PL/SQL" alt="PL/SQL" width="55" height="55"/> |
 
 
 ### Best frameworks and main libraries for Python3:
