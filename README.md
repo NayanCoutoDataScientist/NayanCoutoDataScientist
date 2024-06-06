@@ -6,7 +6,7 @@
 ### About Me:
 
 
-At 31 years old and with an unwavering passion for data and analysis, I am an IT
+At 31 years old and with an unwavering passion for data and analysis, i am an IT
 Technician, developing myself as a Data Scientist, currently improving my skills in Statistics and
 Machine Learning at Anhanguera University. My academic journey also includes
 in-depth knowledge in Economic Sciences, Politics and Law, providing a solid
