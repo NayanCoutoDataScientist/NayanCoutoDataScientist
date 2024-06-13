@@ -1,6 +1,6 @@
 ![Data Science Econometrics](https://github.com/NayanCoutoDataScientist/NayanCoutoDataScientist/blob/main/assets/DataScienceEconometrics.png)
 
-# **Nayan Couto - Data Science and Business Intelligence Specialist**
+# **Nayan Couto - Data Scientist and Business Intelligence Analyst**
 
 
 ### About Me:
