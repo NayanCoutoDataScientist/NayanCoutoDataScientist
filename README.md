@@ -6,11 +6,9 @@
 ### About Me:
 
 
-At 31 years old and with an unwavering passion for data and analysis, i am an IT
-Technician, developing myself as a Data Scientist, currently improving my skills in Statistics and
-Machine Learning at Anhanguera University. My academic journey also includes
-in-depth knowledge in Economic Sciences, Politics and Law, providing a solid
-foundation for understanding the complexities of the global market.
+I'm a Data Scientist and Business Intelligence Analyst with over 10 years of experience in various businesses and a great passion for data and artificial intelligence.
+I am certified as an IT Technician by IETAAM and currently have a degree in Data Science with an emphasis on Statistics and Machine Learning from Anhanguera University.
+My academic journey also includes in-depth knowledge of Economic Sciences, Politics, and Law, providing a solid foundation for understanding the complexities of the global market.
 
 
 ### (Associate's Degree) IT Technician MEC SISTEC Certificate:
@@ -18,6 +16,10 @@ foundation for understanding the complexities of the global market.
 CÓD. SISTEC: 98927/118997830CM - 27/05/2024
 
 [<img src="https://sistec.mec.gov.br/publico/img/logo_sistec_v2.png" title="Sistec"  alt="Sistec" width="200" height="25"/>](https://sistec.mec.gov.br/validadenacional)
+
+### (Bachelor of Science Degree) Data Scientist Certificate:
+
+University Anhanguera Pitágoras Ampli under emission by MEC - 04/01/2025
 
 
 ### Professional experience:
@@ -38,13 +40,13 @@ strategic decision-making.
 
 **Programming Languages & Analysis Tools:** C, R, Python, SQL, PL-SQL, VBA.
 
-**Data Science Tools:** Spark, TensorFlow, Scikit-Learn, Selenium, PyAutoGUI, Numpy, Matplotlib.
+**Data Science Tools:** Spark, TensorFlow, Scikit-Learn, Selenium, PyAutoGUI, Numpy, Matplotlib, Bert, Orange Data Mining.
 
-**Databases:** Oracle, MySQL, SQLite; experience with documentary and non-relational databases.
+**Databases:** Oracle, MySQL, SQLite, No-SQL, MongoDB, Totvs; experience with documentary and non-relational databases.
 
-**Big Data & Cloud Computing:** Azure Data Factory, Google Big Query, Talend Data Integration.
+**Big Data & Cloud Computing:** Azure Data Factory, Google Big Query, Talend Data Integration, Hadoop, Hyve.
 
-**Data Analysis and Visualization:** Deep knowledge of DAX, M, Power BI, Looker; ability to create
+**Data Analysis and Visualization:** Deep knowledge of DAX, M, Power BI, Looker and Excel; ability to create
 impactful data visualizations and business insights.
 
 
