@@ -1,32 +1,34 @@
 ![Data Science Econometrics](https://github.com/NayanCoutoDataScientist/NayanCoutoDataScientist/blob/main/assets/DataScienceEconometrics.png)
 
-# **Nayan Couto - Data Scientist and Business Intelligence Analyst**
+# **Nayan Couto - Data Scientist and Business Intelligence Specialist**
 
 
 ### About Me:
 
 
-I'm a Data Scientist and Business Intelligence Analyst with over 10 years of experience in various businesses and a great passion for data and artificial intelligence.
-I am certified as an IT Technician by IETAAM and currently have a degree in Data Science with an emphasis on Statistics and Machine Learning from Anhanguera University.
-My academic journey also includes in-depth knowledge of Economic Sciences, Politics, and Law, providing a solid foundation for understanding the complexities of the global market.
+I am a Data Scientist and Business Intelligence Analyst with over 10 years of experience in diverse businesses and a great passion for data and artificial intelligence.
+I graduated as a Data Scientist with an emphasis in Market Intelligence from Anhanguera University,
+certified as an IT Technician by IETAAM and am currently pursuing an Executive MBA in Business and Market Intelligence from Unica Prominas University.
+My academic journey also includes in-depth knowledge in Economics, Policy Sciences and Law, providing a solid foundation to understand the complexities of the global market.
 
 
 ### (Associate's Degree) IT Technician MEC SISTEC Certificate:
 
 CÓD. SISTEC: 98927/118997830CM - 27/05/2024
 
-[<img src="https://sistec.mec.gov.br/publico/img/logo_sistec_v2.png" title="Sistec"  alt="Sistec" width="200" height="25"/>](https://sistec.mec.gov.br/validadenacional)
-
 ### (Bachelor of Science Degree) Data Scientist Certificate:
 
-University Anhanguera Pitágoras Ampli under emission by MEC - 04/01/2025
+University Anhanguera Pitágoras - 19/11/2024
 
+### (MBA) Business and Market Intelligence:
+
+Universitary Center Única of Juiz de Fora - 01/12/2025
 
 ### Professional experience:
 
 
-**Data Science & Market Intelligence:** Practical experience in data analysis, forecasting and predictive
-modeling, using programming languages such as C, R and Python.
+**Data Science & Market Intelligence:** Hands-on experience in data analysis,
+forecasting and predictive modeling, using programming languages ​​such as C, R and Python.
 
 **Data Engineering & Data Warehouse Architecture:** Proficiency in database administration, ETL, and
 information systems architecture.
@@ -40,7 +42,7 @@ strategic decision-making.
 
 **Programming Languages & Analysis Tools:** C, R, Python, SQL, PL-SQL, VBA.
 
-**Data Science Tools:** Spark, TensorFlow, Scikit-Learn, Selenium, PyAutoGUI, Numpy, Matplotlib, Bert, Orange Data Mining.
+**Data Science Tools:** Spark, TensorFlow, Scikit-Learn, Selenium, PyAutoGUI, Numpy, Matplotlib, Bert, Open CV, Orange Data Mining.
 
 **Databases:** Oracle, MySQL, SQLite, No-SQL, MongoDB, Totvs; experience with documentary and non-relational databases.
 
