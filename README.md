@@ -4,10 +4,13 @@
 # **Nayan Couto, MBA. - Data Scientist and Business Intelligence Specialist**
 
 
+**Data Scientist | Data Analyst | Analytics Engineer | Machine Learning Engineer | BI Developer | Python | R | C | ML | DL | NLP | SQL | DW | DAX | M | Excel | Azure | Fabric | Git**
+
+
 ### About Me:
 
 
-I am a Data Scientist and Intelligence Analyst with over 3 years of experience in Business Intelligence and a great passion for data analysis and artificial intelligence engineering. I hold a degree in Data Science with an emphasis on Statistics and Machine Learning from Anhanguera University and a Technical degree in Information Technology from IETAAM. I am also a postgraduate with an executive MBA in commercial and market intelligence from FUNIP, and my academic journey also includes in-depth knowledge of economic sciences, politics, and law.
+I am a Data Scientist and Intelligence Analyst with over three years of experience in Business Intelligence and a great passion for data analysis and artificial intelligence engineering. I hold a degree in Data Science with an emphasis on Statistics and Machine Learning, a Technical degree in Information Technology, and an Executive MBA in Commercial and Market Intelligence. My academic journey also includes in-depth knowledge of economic sciences, politics, and law.
 
 
 ### (Associate's Degree) IT Technician MEC SISTEC Certificate:
