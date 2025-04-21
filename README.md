@@ -1,15 +1,13 @@
 ![Data Science Econometrics](https://github.com/NayanCoutoDataScientist/NayanCoutoDataScientist/blob/main/assets/DataScienceEconometrics.png)
 
-# **Nayan Couto - Data Scientist and Business Intelligence Specialist**
+
+# **Nayan Couto, MBA. - Data Scientist and Business Intelligence Specialist**
 
 
 ### About Me:
 
 
-I am a Data Scientist and Business Intelligence Analyst with over 10 years of experience in diverse businesses and a great passion for data and artificial intelligence.
-I graduated as a Data Scientist with an emphasis in Market Intelligence from Anhanguera University,
-certified as an IT Technician by IETAAM and am currently pursuing an Executive MBA in Business and Market Intelligence from Unica Prominas University.
-My academic journey also includes in-depth knowledge in Economics, Policy Sciences and Law, providing a solid foundation to understand the complexities of the global market.
+I am a Data Scientist and Intelligence Analyst with over 3 years of experience in Business Intelligence and a great passion for data analysis and artificial intelligence engineering. I hold a degree in Data Science with an emphasis on Statistics and Machine Learning from Anhanguera University and a Technical degree in Information Technology from IETAAM. I am also a postgraduate with an executive MBA in commercial and market intelligence from FUNIP, and my academic journey also includes in-depth knowledge of economic sciences, politics, and law.
 
 
 ### (Associate's Degree) IT Technician MEC SISTEC Certificate:
@@ -22,7 +20,8 @@ University Anhanguera Pitágoras - 19/11/2024
 
 ### (MBA) Business and Market Intelligence:
 
-Universitary Center Única of Juiz de Fora - 01/12/2025
+Universitary Center Única of Juiz de Fora - 15/04/2025
+
 
 ### Professional experience:
 
@@ -50,6 +49,8 @@ strategic decision-making.
 
 **Data Analysis and Visualization:** Deep knowledge of DAX, M, Power BI, Looker and Excel; ability to create
 impactful data visualizations and business insights.
+
+**MLops:** Git, VMware, Docker, Airflow and Fabric Ecosystem.
 
 
 ### Soft Skills:
