@@ -19,11 +19,11 @@ CÓD. SISTEC: 98927/118997830CM - 27/05/2024
 
 ### (Bachelor of Technology Degree) Data Scientist Certificate:
 
-University Anhanguera Pitágoras - 19/11/2024
+University Anhanguera Pitágoras - 29/10/2024
 
 ### (Master of Business Administration) Business and Market Intelligence:
 
-Universitary Center Unique of Ipatinga - 15/04/2025
+Universitary Center Unique of Ipatinga - 15/05/2025
 
 
 ### Professional experience:
