@@ -17,13 +17,13 @@ I am a Data Scientist and Intelligence Analyst with over three years of experien
 
 CÓD. SISTEC: 98927/118997830CM - 27/05/2024
 
-### (Bachelor of Science Degree) Data Scientist Certificate:
+### (Bachelor of Technology Degree) Data Scientist Certificate:
 
 University Anhanguera Pitágoras - 19/11/2024
 
-### (MBA) Business and Market Intelligence:
+### (Master of Business Administration) Business and Market Intelligence:
 
-Universitary Center Única of Juiz de Fora - 15/04/2025
+Universitary Center Unique of Ipatinga - 15/04/2025
 
 
 ### Professional experience:
