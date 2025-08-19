@@ -1,7 +1,7 @@
 ![Data Science Econometrics](https://github.com/NayanCoutoDataScientist/NayanCoutoDataScientist/blob/main/assets/stages-in-data-pipeline.jpg)
 
 
-# **Nayan Couto, MBA. - Full Stack Data Engineering Specialist**
+# **Nayan Couto, MBA. - Full Stack Data Engineer Specialist**
 
 
 **Data Scientist | BI Engineer | Analytics Engineer | Machine Learning Engineer | Data Engineer | Database Analyst | Python | R | PostgreSQL | Oracle | DAX | M | Excel | Azure | Fabric | MLops | Dataops**
