@@ -1,16 +1,16 @@
-![Data Science Econometrics](https://github.com/NayanCoutoDataScientist/NayanCoutoDataScientist/blob/main/assets/DataScienceEconometrics.png)
+![Data Science Econometrics](https://github.com/NayanCoutoDataScientist/NayanCoutoDataScientist/blob/main/assets/stages-in-data-pipeline.jpg)
 
 
-# **Nayan Couto, MBA. - Data Scientist and Business Intelligence Specialist**
+# **Nayan Couto, MBA. - Full Stack Data Engineering Specialist**
 
 
-**Data Scientist | Data Analyst | Analytics Engineer | Machine Learning Engineer | BI Developer | Python | R | C | ML | DL | NLP | SQL | DW | DAX | M | Excel | Azure | Fabric | Git**
+**Data Scientist | BI Engineer | Analytics Engineer | Machine Learning Engineer | Data Engineer | Database Analyst | Python | R | PostgreSQL | Oracle | DAX | M | Excel | Azure | Fabric | MLops | Dataops**
 
 
 ### About Me:
 
 
-I am a Data Scientist and Intelligence Analyst with over three years of experience in Business Intelligence and a great passion for data analysis and artificial intelligence engineering. I hold a degree in Data Science with an emphasis on Statistics and Machine Learning, a Technical degree in Information Technology, and an Executive MBA in Commercial and Market Intelligence. My academic journey also includes in-depth knowledge of economic sciences, politics, and law.
+Currently working in the Market Intelligence sector at Ardex Ceramfix, I am passionate about transforming data into strategic insights that drive business growth. With over 10 years of experience in diverse businesses, always working with Information and Communication Technology, from the Banking sector to Civil Construction, and 3 years of experience in Business Intelligence and Analytics, I have developed strong skills in data analysis, predictive modeling, and artificial intelligence engineering.
 
 
 ### (Associate's Degree) IT Technician MEC SISTEC Certificate:
@@ -19,41 +19,42 @@ CÓD. SISTEC: 98927/118997830CM - 27/05/2024
 
 ### (Bachelor of Technology Degree) Data Scientist Certificate:
 
-University Anhanguera Pitágoras - 29/10/2024
+University Anhanguera Uniderp of Campo Grande - 29/10/2024
 
 ### (Master of Business Administration) Business and Market Intelligence:
 
-Universitary Center Unique of Ipatinga - 15/05/2025
+University Center Unique of Ipatinga - 15/05/2025
 
+### (Postgraduate Program) Artificial Intelligence and Data Engineering:
+
+University Center Anhanguera of Niterói - 1S2026
 
 ### Professional experience:
 
 
-**Data Science & Market Intelligence:** Hands-on experience in data analysis,
-forecasting and predictive modeling, using programming languages ​​such as C, R and Python.
+**Data Science & Data Analytics:** I developed predictive models and data analyses to drive business growth,
+using programming languages such as C, R, and Python.
 
-**Data Engineering & Data Warehouse Architecture:** Proficiency in database administration, ETL, and
-information systems architecture.
+**Data Engineering & Data Warehouse Architecture:** I developed and implemented data storage and ETL solutions to improve the efficiency and scalability of information systems,
+using environments such as GCP, Azure, Fabric, Databricks, and PostgreSQL.
 
-**Business Intelligence & Production Planning:** Ability to transform raw data into actionable insights for
-strategic decision-making.
+**Business Intelligence & Market Intelligence:** I transformed raw data into actionable insights for strategic decision-making, using tools such as SQL, Power BI, Looker, and Excel.
 
 
 ### Hard Skills:
 
 
-**Programming Languages & Analysis Tools:** C, R, Python, SQL, PL-SQL, VBA.
+**Programming Languages & Analysis Tools:** C, R, Python, PL-SQL, VBA.
 
-**Data Science Tools:** Spark, TensorFlow, Scikit-Learn, Selenium, PyAutoGUI, Numpy, Matplotlib, Bert, Open CV, Orange Data Mining.
+**Data Science Tools:** SparkML, TensorFlow, Scikit-Learn, Selenium, PyAutoGUI, Numpy, Matplotlib, Pandas, NLTK, Bert, Orange Data Mining, Hughing Face.
 
-**Databases:** Oracle, MySQL, SQLite, No-SQL, MongoDB, Totvs; experience with documentary and non-relational databases.
+**Databases:** Oracle, MySQL, SQLite, No-SQL, MongoDB, PostgreSQL, Maria DB, Cassandra, Hana, Totvs, Delta Parquet.
 
-**Big Data & Cloud Computing:** Azure Data Factory, Google Big Query, Talend Data Integration, Hadoop, Hyve.
+**Big Data & Cloud Computing:** Azure Data Factory, Google Big Query, Databricks Delta Lake, Onelake, Azure Synapse, Talend Data Integration, Hadoop, Hyve, Polars, DuckDB, PySpark.
 
-**Data Analysis and Visualization:** Deep knowledge of DAX, M, Power BI, Looker and Excel; ability to create
-impactful data visualizations and business insights.
+**Data Analysis and Visualization:** DAX, M, SQL, Power BI, Streamlit, Looker, Excel.
 
-**MLops:** Git, VMware, Docker, Airflow and Fabric Ecosystem.
+**MLops:** Git, VMware, Docker, Airflow, Linux, and Fabric Ecosystem.
 
 
 ### Soft Skills:
@@ -61,7 +62,7 @@ impactful data visualizations and business insights.
 
 **Critical Analysis:** Ability to identify complex trends and patterns.
 
-**Communication:** Fluent Spanish and intermediate English, facilitating collaboration in multicultural
+**Communication:** Fluent Spanish and Advanced English, facilitating collaboration in multicultural
 environments.
 
 **Problem-Solving:** Analytical approach to solving challenges and optimizing processes.
