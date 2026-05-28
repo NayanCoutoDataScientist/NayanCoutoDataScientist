@@ -1,187 +1,133 @@
-![Data Science Econometrics](https://github.com/NayanCoutoDataScientist/NayanCoutoDataScientist/blob/main/assets/stages-in-data-pipeline.jpg)
-
-
-# **Nayan Couto, MBA. - Full Stack Data Engineer Specialist**
-
-
-**Data Scientist | BI Engineer | Analytics Engineer | Machine Learning Engineer | Data Engineer | Database Analyst | Python | R | PostgreSQL | Oracle | DAX | M | Excel | Azure | Fabric | MLops | Dataops**
-
-
-### About Me:
-
-
-Currently working in the Market Intelligence sector at Ardex Ceramfix, I am passionate about transforming data into strategic insights that drive business growth. With over 10 years of experience in diverse businesses, always working with Information and Communication Technology, from the Banking sector to Civil Construction, and 3 years of experience in Business Intelligence and Analytics, I have developed strong skills in data analysis, predictive modeling, and artificial intelligence engineering.
-
-
-### (Associate's Degree) IT Technician MEC SISTEC Certificate:
-
-CÓD. SISTEC: 98927/118997830CM - 27/05/2024
-
-### (Bachelor of Technology Degree) Data Scientist Certificate:
-
-University Anhanguera Uniderp of Campo Grande - 29/10/2024
-
-### (Master of Business Administration) Business and Market Intelligence:
-
-University Center Unique of Ipatinga - 15/05/2025
-
-### (Postgraduate Program) Artificial Intelligence and Data Engineering:
-
-University Center Anhanguera of Niterói - 1S2026
-
-### Professional experience:
-
-
-**Data Science & Data Analytics:** I developed predictive models and data analyses to drive business growth,
-using programming languages such as C, R, and Python.
-
-**Data Engineering & Data Warehouse Architecture:** I developed and implemented data storage and ETL solutions to improve the efficiency and scalability of information systems,
-using environments such as GCP, Azure, Fabric, Databricks, and PostgreSQL.
-
-**Business Intelligence & Market Intelligence:** I transformed raw data into actionable insights for strategic decision-making, using tools such as SQL, Power BI, Looker, and Excel.
-
-
-### Hard Skills:
-
-
-**Programming Languages & Analysis Tools:** C, R, Python, PL-SQL, VBA.
-
-**Data Science Tools:** SparkML, TensorFlow, Scikit-Learn, Selenium, PyAutoGUI, Numpy, Matplotlib, Pandas, NLTK, Bert, Orange Data Mining, Hughing Face.
-
-**Databases:** Oracle, MySQL, SQLite, No-SQL, MongoDB, PostgreSQL, Maria DB, Cassandra, Hana, Totvs, Delta Parquet.
-
-**Big Data & Cloud Computing:** Azure Data Factory, Google Big Query, Databricks Delta Lake, Onelake, Azure Synapse, Talend Data Integration, Hadoop, Hyve, Polars, DuckDB, PySpark.
-
-**Data Analysis and Visualization:** DAX, M, SQL, Power BI, Streamlit, Looker, Excel.
-
-**MLops:** Git, VMware, Docker, Airflow, Linux, and Fabric Ecosystem.
-
-
-### Soft Skills:
-
-
-**Critical Analysis:** Ability to identify complex trends and patterns.
-
-**Communication:** Fluent Spanish and Advanced English, facilitating collaboration in multicultural
-environments.
-
-**Problem-Solving:** Analytical approach to solving challenges and optimizing processes.
-
-**Negotiation:** Ability and experience in extracting crucial information and requirements for modeling
-problems.
-
-**Hyper focus:** Ability to work for hours on end on the same task.
-Emotional Intelligence: Control and focus on stressful situations and tight deadlines.
-
-
-### Certifications and Projects:
-
-**Mail Contact:**  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pereira.nayan@gmail.com)
-
-**Summary and Certifications:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-couto-559485120/?locale=en_US)
-
-**Reach me at Telegram:**  
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/nayan_couto)
-
-
-I have lived in Blumenau-SC since 2021, where I continue to explore the dynamic field of Data Science,
-always looking for opportunities to make an impact through data analysis.
-
-
-## Languages and Tools 
-<div>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NayanCoutoDataScientist&title=Stars,Followers,Commits,Repositories,MultipleLang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-### Languages:
-| Python3 | C | R | DAX/M | PL/SQL |
-|----------|----------|---|-------|--------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/> | <img src="https://smartsoft.kz/images/product/m1msm9qf.jpg" title="Power BI" alt="Power BI" width="55" height="55"/> | <img src="https://assets.codegrip.tech/wp-content/uploads/2021/09/28184216/Pl-Sql_Logo.png" title="PL/SQL" alt="PL/SQL" width="55" height="55"/> |
-
-
-### Best frameworks and main libraries for Python3:
-
-
-| Pytorch | Selenium | Numpy | Pandas | Sklearn | Matplotlib | OpenCV | Poetry | Seaborn | Plotly | TensorFlow | Streamlit |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plt" alt="plt" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" title="Poetry" alt="Poetry" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="55" height="55"/>|
-
-
-
-
-
-
-### My tools for Data Manipulation:
-
-
-| Conda | Jupyter | Spark | MySQL | Oracle | SQLite | GCP BQ | Fabric | Talend |
-|----------|----------|----------|----------|--------|----------|--------|--------|--------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" alt="PLSql" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="55" height="55"/>|<img src="https://azuriens.be/wp-content/uploads/2023/05/Build2023-Fabric-1024x1024.png" title="Power Fabric" alt="Power Fabric" width="55" height="55"/>|<img src="https://th.bing.com/th/id/R.2a013eff07b851838d2604f615c611a2?rik=iAYmJEtaotwd%2fw&pid=ImgRaw&r=0" title="Talend Data Integration" alt="Talend Data Integration" width="55" height="55"/>|
-
-
-### Environments, Testing, Other:
-
-
-| Pycharm | Git | Docker | Pytest | Azure Databricks | Postman | Virtual Box | Power Platform |
-|---------|----------|----------|----------|------------------|----------|----------|---------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="30" height="30"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>| <img src="https://www.atmosera.com/wp-content/uploads/databricks_logo_icon_169299.png" title="Databricks" alt="Databricks" width="110" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="80" height="55"/>| <img src="https://www.serinf.it/wp-content/uploads/2023/02/Microsoft-Power-Platform-2023.png" title="Power Platform" alt="Power Platform" width="110" height="55"/> |
-
-
-### OS:
-
-
-| Linux | Android | Windows |
-|----------|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/windows11/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="55" height="55"/> |
-
-<!--
-
-### It's not technology, but I use it. The section will be changed soon.:
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="30" height="30"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>
---> 
-</div>
+<p align="center">
+  <img src="assets/stages-in-data-pipeline.jpg" alt="Data pipeline landscape" width="100%" />
+</p>
+
+<h1 align="center">Nayan Couto, MBA</h1>
+
+<p align="center"><b>ML/AI Specialist</b></p>
+
+<p align="center">
+  Data Engineer | AI Engineer | Machine Learning Engineer | Data Scientist
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Curitiba%2C%20Parana%20BR-1f2937?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Network-500%2B%20Connections-1f2937?style=flat-square" alt="Connections" />
+  <img src="https://img.shields.io/badge/Focus-DataOps%20%7C%20MLOps-1f2937?style=flat-square" alt="Focus" />
+</p>
+
+<p align="center">
+  <a href="mailto:pereira.nayan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nayan-pereira-559485120">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/nayan_couto">
+    <img src="https://img.shields.io/badge/Telegram-Chat-2563eb?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
 ---
 
-  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=NayanCoutoDataScientist&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+## Executive Profile
 
+| PT-BR | EN |
+|---|---|
+| Especialista em Dados, ML e IA, com 10+ anos em TIC, Negocios e Financas em setores como Bancario e Construcao Civil. Atuo com BI e Analytics com IA aplicada, engenharia de dados, modelagem preditiva e dashboards executivos orientados a resultado. | Data, ML, and AI specialist with 10+ years across ICT, business, and finance, including banking and construction. I deliver applied AI analytics, data engineering, predictive modeling, and executive dashboards focused on measurable impact. |
 
 ---
 
+## Value Delivery
 
+<table>
+  <tr>
+    <td><b>Data Engineering</b><br/>ETL/ELT pipelines, storage strategy, and scalable architecture.</td>
+    <td><b>Analytics Engineering</b><br/>Business-aligned models and decision-ready datasets.</td>
+  </tr>
+  <tr>
+    <td><b>Data Science and ML</b><br/>Predictive, discriminative, and generative modeling.</td>
+    <td><b>BI and Market Intelligence</b><br/>KPI governance, executive dashboards, and analytical storytelling.</td>
+  </tr>
+  <tr>
+    <td><b>DataOps and MLOps</b><br/>Automation, orchestration, versioning, and reproducible deployment.</td>
+    <td><b>Business Focus</b><br/>Technical delivery tied to operational and financial outcomes.</td>
+  </tr>
+</table>
 
+---
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=NayanCoutoDataScientist&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayanCoutoDataScientist&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+## Technical Landscape
+
+<p>
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20C%20%7C%20R%20%7C%20SQL%20%7C%20PL%2FSQL%20%7C%20T--SQL%20%7C%20DAX%20%7C%20M%20%7C%20VB-334155?style=flat-square" alt="Languages" />
 </p>
- 
 
+<p>
+  <img src="https://img.shields.io/badge/Data%20Science%20and%20AI-SparkML%20%7C%20TensorFlow%20%7C%20Scikit--Learn%20%7C%20MLflow%20%7C%20Hugging%20Face%20%7C%20BERT%20%7C%20DeepSeek%20%7C%20Ollama-334155?style=flat-square" alt="Data Science and AI" />
+</p>
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=NayanCoutoDataScientist&style=for-the-badge&color=orange" alt=""/>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Data%20Platforms-PostgreSQL%20%7C%20SQL%20Server%20%7C%20Oracle%20%7C%20MongoDB%20%7C%20Databricks%20Delta%20%7C%20OneLake-334155?style=flat-square" alt="Data Platforms" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Cloud%20and%20Big%20Data-Azure%20%7C%20Fabric%20%7C%20BigQuery%20%7C%20Synapse%20%7C%20AWS%20S3%20%7C%20dbt%20%7C%20PySpark%20%7C%20DuckDB-334155?style=flat-square" alt="Cloud and Big Data" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Ops%20and%20Delivery-Git%20%7C%20GitHub%20%7C%20Azure%20DevOps%20%7C%20Docker%20%7C%20Airflow%20%7C%20Linux%20%7C%20OpenClaw%20%7C%20n8n-334155?style=flat-square" alt="Ops and Delivery" />
+</p>
+
+---
+
+## Current Positioning
+
+- Information Technology Engineer - BB Tecnologia e Servicos
+- Positioning aligned with AI, Data Engineering, Machine Learning, and BI delivery across on-premises and cloud contexts
+
+---
+
+## Education and Certifications
+
+- MBA in Business Intelligence
+- Postgraduate Program in Data Engineering and Artificial Intelligence (completed)
+- Degree in Data Science
+- Universidade Anhanguera Sao Paulo
+- IT Technician - MEC SISTEC (Code: 98927/118997830CM, 2024)
+
+---
+
+## Professional Links
+
+- LinkedIn: https://www.linkedin.com/in/nayan-pereira-559485120
+- Email: pereira.nayan@gmail.com
+- Telegram: https://t.me/nayan_couto
+
+---
+
+## GitHub Analytics
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  <a href="https://github.com/NayanCoutoDataScientist?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Portfolio-334155?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+  <a href="https://github.com/NayanCoutoDataScientist?tab=stars">
+    <img src="https://img.shields.io/badge/Starred-Projects-334155?style=for-the-badge&logo=github&logoColor=white" alt="Starred Projects" />
+  </a>
+  <a href="https://github.com/NayanCoutoDataScientist">
+    <img src="https://img.shields.io/badge/Profile-Overview-334155?style=for-the-badge&logo=github&logoColor=white" alt="Profile Overview" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NayanCoutoDataScientist">
+    Access full public metrics directly on the GitHub profile
+  </a>
+</p>
+
+<p align="center">
+  <img width="1000" src="assets/github-snake.svg" alt="Contribution snake"/>
 </p>
 
 
