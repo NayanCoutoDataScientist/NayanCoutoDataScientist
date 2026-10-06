@@ -83,7 +83,7 @@
 
 ## Current Positioning
 
-- Information Technology Engineer - BB Tecnologia e Servicos
+- Gen AI and LLM Ops Engineer - Basis Information Technology
 - Positioning aligned with AI, Data Engineering, Machine Learning, and BI delivery across on-premises and cloud contexts
 
 ---
