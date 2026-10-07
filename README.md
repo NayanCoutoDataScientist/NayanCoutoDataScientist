@@ -20,7 +20,7 @@
   <a href="mailto:pereira.nayan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/nayan-pereira-559485120">
+  <a href="https://www.linkedin.com/in/nayan-pereira">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://t.me/nayan_couto">
@@ -100,7 +100,7 @@
 
 ## Professional Links
 
-- LinkedIn: https://www.linkedin.com/in/nayan-pereira-559485120
+- LinkedIn: https://www.linkedin.com/in/nayan-pereira
 - Email: pereira.nayan@gmail.com
 - Telegram: https://t.me/nayan_couto
 
