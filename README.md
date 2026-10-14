@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/stages-in-data-pipeline.jpg" alt="Data pipeline landscape" width="100%" />
+  <img src="assets/Gemini_Generated_Image_4mxq9v4mxq9v4mxq.jpg" alt="Data pipeline landscape" width="100%" />
 </p>
 
 <h1 align="center">Nayan Couto, MBA</h1>
 
-<p align="center"><b>ML/AI Specialist</b></p>
+<p align="center"><b>Data Science Specialist</b></p>
 
 <p align="center">
   Data Engineer | AI Engineer | Machine Learning Engineer | Data Scientist
